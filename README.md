@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali ozkan</h1>
-<h3 align="center">Curious Web Developer From Amsterdam/Netherlands</h3>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=23&pause=1000&color=1E88E5&vCenter=true&width=800&height=60&lines=Hi,+I+am+Mehmet;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Front+End+Developer.;%F0%9F%93%91+Studying+on+being+Full+Stack+Developer.+;%F0%9F%8E%93+About+to+graduate+from+Computer+Programmer;%F0%9F%92%99+Love+to+learn+new+stuffs." alt="Typing SVG" />
+</a>
+
+
+<h1 align="center">Hi 👋, I'm Ali Ozkan</h1>
+<h3 align="center"> Web Developer From Amsterdam/Netherlands</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
